@@ -1,0 +1,22 @@
+{
+ "signatures": [
+  {
+   "keyid": "87a9aede25083fdb0bac95beddbfd354e4c749ec518f65dc73760f82eb8f1ab0",
+   "sig": "832af36f047929daa71d93fd11334b02e25935796d96152cc056f8c70d24806c86eb6671c5c4f3f72ccd0738af9def5563c6ca234aca5876b4b1071c0aa1cd02"
+  }
+ ],
+ "signed": {
+  "_type": "targets",
+  "expires": "2022-10-11T16:05:04Z",
+  "spec_version": "1.0.29",
+  "targets": {
+   "my_app-1.12.tar.gz": {
+    "hashes": {
+     "sha256": "8a319c9c4dfa1bc308391389e5467744a7caf4bb1af39f030a5645b3b4b3ad67"
+    },
+    "length": 12185254
+   }
+  },
+  "version": 2
+ }
+}
