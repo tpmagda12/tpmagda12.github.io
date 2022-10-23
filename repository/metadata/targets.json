@@ -1,0 +1,34 @@
+{
+ "signatures": [
+  {
+   "keyid": "9564a0313eafa6f49326c6158ce4ee6205f9c63656bff0c08f51e01f45db2768",
+   "sig": "f2866b632b4193ad2baec492f771f908657c5ddd622aa29938263722aa3c01c71ce3c4c7cffb44a1497ac01dd138be44efb76a60d345baa7b73d70c00981cd0c"
+  }
+ ],
+ "signed": {
+  "_type": "targets",
+  "expires": "2022-10-30T22:56:20Z",
+  "spec_version": "1.0.29",
+  "targets": {
+   "FINS-1.0.tar.gz": {
+    "hashes": {
+     "sha256": "270e11cde54c36322f59d4abdcaa891cf45d5b27199e4d5472bca62ceae85d09"
+    },
+    "length": 12367286
+   },
+   "FINS-1.01.patch": {
+    "hashes": {
+     "sha256": "198a501b6d5d717e811501c5e50f72604acc39f5282d7268af5c3139105b3f48"
+    },
+    "length": 12013650
+   },
+   "FINS-1.01.tar.gz": {
+    "hashes": {
+     "sha256": "00cbc9d25d58e4f4367ff06cfbbd3f6db2b435b5fc09fab688772a2cb8cc6f42"
+    },
+    "length": 15103424
+   }
+  },
+  "version": 3
+ }
+}
